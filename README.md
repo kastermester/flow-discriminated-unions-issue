@@ -2,7 +2,7 @@
 Basically this simple repo will force tools like nuclide to go completely berserk on my system.
 By that I mean my CPU usage goes through the roof, autocompletion never shows up, etc.
 
-With flow 0.29.0, here is a time output:
+With flow 0.28.0, here is a time output:
 ```
 $ time flow check
 Found 0 errors
